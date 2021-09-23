@@ -73,9 +73,7 @@ function circle(map, pos, radius, color="#FF0000") {
   });
 }
 
-
-
-
+// function for distance of ucb atms and add marker here
 
 function handleLocationError(browserHasGeolocation, infoWindow, pos) {
   infoWindow.setPosition(pos);
